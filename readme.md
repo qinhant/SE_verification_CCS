@@ -1,3 +1,6 @@
+This is an artifact companioned with our [paper](). This repo is under the APACHE 2.0 License.
+
+To cite our paper:
 
 # Introduction
 ### This repo includes the verilog code and the tcl scripts to verify them in Cadence Jaspergold. The verilog code comes from the SE_varaint repo we created (https://github.com/shibo-chen/SE-prototype) and includes 7 different SE design variants. All the designs have already been processed with declassification and are ready for formal information flow check.
